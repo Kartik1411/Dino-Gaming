@@ -1,0 +1,27 @@
+.aboutUs {
+  background-color: grey;
+  height: 60vh;
+}
+
+.aboutUs h1 {
+  color: white;
+  text-align: center;
+  padding-top: 7%;
+}
+
+p {
+  padding: 3%;
+  text-align: justify;
+}
+
+@media (max-width: 1150px) {
+  .aboutUs h1 {
+    padding-top: 10%;
+  }
+}
+
+@media (max-width: 500px) {
+  .aboutUs h1 {
+    padding-top: 15%;
+  }
+}
