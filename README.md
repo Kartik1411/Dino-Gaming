@@ -9,15 +9,15 @@ Here are some screenshots :
 
 ![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(476).png)
 
-![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/master/images/screenShots/Screenshot%20(477).png)
+![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(477).png)
 
-![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/master/images/screenShots/Screenshot%20(478).png)
+![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(478).png)
 
-![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/master/images/screenShots/Screenshot%20(479).png)
+![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(479).png)
 
-![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/master/images/screenShots/Screenshot%20(480).png)
+![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(480).png)
 
-![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/master/images/screenShots/Screenshot%20(481).png)
+![alt text](https://github.com/Kartik1411/Dino-Gaming/blob/main/images/screenShots/Screenshot%20(481).png)
 
 
 
